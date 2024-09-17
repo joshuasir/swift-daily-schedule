@@ -1,5 +1,5 @@
 # Taskly a Daily Task Report App
-### *Capture every effort with ease*
+*Capture every effort with ease*
 
 In today's fast-paced work environment, keeping track of daily tasks and monitoring productivity can be a challenge. Our Daily Task App is designed to simplify task management, offering users an intuitive platform to log, organize, and track their daily activities. Beyond basic task reporting, the app leverages advanced AI capabilities to generate meaningful insights and summaries based on a range of user-selected dates.
 
