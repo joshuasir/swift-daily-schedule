@@ -7,7 +7,7 @@ With just a few clicks, users can quickly review their productivity over a set p
 
 ## User Registration & Login
 <div style="text-align: center; width:100%;">
-  <img src="https://github.com/user-attachments/assets/9d3ad4c6-46c6-4f17-b4ca-16126a89dc54" alt="download" style="height: 500px; display: block; margin: 0 auto;">
+  <img src="https://github.com/user-attachments/assets/7b354784-61e4-4cf1-9f19-3aa653c5aa41" alt="download" style="height: 500px; display: block; margin: 0 auto;">
 </div>
 
 ## Daily Task Planning
