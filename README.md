@@ -9,12 +9,9 @@ With just a few clicks, users can quickly review their productivity over a set p
 ![download](https://github.com/user-attachments/assets/7b354784-61e4-4cf1-9f19-3aa653c5aa41)
 
 ## Daily Task Planning
-<div style="text-align: center; width:100%;">
-  <img src="https://github.com/user-attachments/assets/8de8de1b-c32f-41b7-97d0-a4f3eb11cbb7" alt="Untitled design" style="height: 500px; display: block; margin: 0 auto;">
-</div>
+![Untitled design](https://github.com/user-attachments/assets/8de8de1b-c32f-41b7-97d0-a4f3eb11cbb7)
 
 ## AI Summarization Feature
-<div style="text-align: center; width:100%;">
-  <img src="https://github.com/user-attachments/assets/c465934f-0c52-4193-846f-28e314e19336" alt="Untitled design (1)" style="height: 500px; display: block; margin: 0 auto;">
-</div>
+![Untitled design (1)](https://github.com/user-attachments/assets/c465934f-0c52-4193-846f-28e314e19336)
+
 
