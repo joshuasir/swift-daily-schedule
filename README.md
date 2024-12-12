@@ -6,12 +6,12 @@ In today's fast-paced work environment, keeping track of daily tasks and monitor
 With just a few clicks, users can quickly review their productivity over a set period, receive AI-generated summaries of key accomplishments, and gain actionable insights to optimize future performance. Whether for personal use or team-based task reporting, **this app ensures that no effort goes unnoticed while enhancing efficiency** through the power of AI.
 
 ## User Registration & Login
-![download](https://github.com/user-attachments/assets/7b354784-61e4-4cf1-9f19-3aa653c5aa41)
+![368828647-7b354784-61e4-4cf1-9f19-3aa653c5aa41-ezgif com-resize](https://github.com/user-attachments/assets/8e31a3af-e35a-4667-a553-a3eaa7f9c789)
 
 ## Daily Task Planning
-![Untitled design](https://github.com/user-attachments/assets/8de8de1b-c32f-41b7-97d0-a4f3eb11cbb7)
+![ezgif-7-d657bd4286](https://github.com/user-attachments/assets/29914dc9-2437-4054-9d0e-87b472722fb9)
 
 ## AI Summarization Feature
-![Untitled design (1)](https://github.com/user-attachments/assets/c465934f-0c52-4193-846f-28e314e19336)
+![ezgif-7-a583dcc689](https://github.com/user-attachments/assets/ca2b438c-616b-40f3-96a0-edaaf1ce8575)
 
 
